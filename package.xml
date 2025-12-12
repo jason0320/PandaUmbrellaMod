@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Meta>
+  <title>Panda's Umbrella Mod</title>
+  <id>Mod_PandaUmbrellaMod</id>
+  <author>Now Happy Panda</author>
+  <loadPriority>10</loadPriority>
+  <description>Add umbrellas</description>
+  <version>0.23.246</version>
+</Meta>
